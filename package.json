@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/kimbyongjin/Creature_2/issues"
   },
-  "homepage": "https://github.com/kimbyongjin/Creature_2#readme"
+  "homepage": "https://github.com/kimbyongjin/Creature_2#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "react": "^16.9.0",
+    "react-bootstrap": "^1.0.0-beta.12",
+    "react-dom": "^16.9.0"
+  }
 }
